@@ -1,0 +1,10 @@
+weak 10
+interval 2:weak 18
+interval 1:weak 12:interval 2:normal 2
+interval 1:weak 17:normal 9
+interval 1:weak 2:normal 13
+interval 1:weak 7:normal 7:strong 2
+interval 1:weak 10:normal 10:strong 2
+interval 1:weak 5:normal 10:strong 14
+interval 1:strong 15
+interval 0.5:normal 51

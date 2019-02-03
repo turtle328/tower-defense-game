@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1dcc42360af93c41b8545607c0792d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildplace: {fileID: 1446737510950784, guid: 359925ee9d3b8a3488c18944eb62671c,
+      type: 2}
+  - batPrefab: {instanceID: 0}
+  - surface: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
